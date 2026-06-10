@@ -44,10 +44,10 @@
 </div>
 
 <div align="center"> 
-  <a href="mailto:">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://github.com/NominjinNomio" target="_blank">
+  <a href="https://github.com/NominjinNomio">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
