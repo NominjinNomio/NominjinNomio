@@ -129,10 +129,7 @@
 <br/><br/>
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=NominjinNomio&theme=react&border_radius=10&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=NominjinNomio&theme=transparent&background=0D1117&border=30363D&stroke=30363D&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7&sideNums=2F81F7&currStreakNum=F0F6FC&sideLabels=8B949E&dates=8B949E" />
 </div>
 
 <br/><br/>
