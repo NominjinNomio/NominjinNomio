@@ -131,34 +131,6 @@
 </div>
 
 <br/><br/>
-<hr/>
-
-<h2 align="center">💫 Fun Facts & Quotes 💫</h2>
-<br>
-<div align="center">
-
-> *"The only way to do great work is to love what you do."* — Steve Jobs
-
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-<br/>
-
-🎯 **Currently focused on:** Agentic AI & Automation at erxes Mongolia
-
-☕ **Powered by:** Curiosity, coffee, and late-night coding sessions
-
-🎵 **Coding vibe:** Lo-fi beats and deep focus
-
-🌍 **Based in:** Mongolia 🇲🇳
-
-📅 **Born in:** 2006 — Gen Z coder building the future
-
-</div>
-
-<br/>
-<hr/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NominjinNomio&color=blueviolet&style=flat-square" alt="profile views" />
