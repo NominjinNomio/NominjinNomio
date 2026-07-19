@@ -127,8 +127,12 @@
 
 <h2 align="center">GitHub Analytics</h2>
 <br/><br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NominjinNomio&theme=react&border_radius=10" alt="streak stats" />
+  <img
+    src="https://streak-stats.demolab.com?user=NominjinNomio&theme=react&border_radius=10&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb"
+    alt="GitHub Streak"
+  />
 </div>
 
 <br/><br/>
