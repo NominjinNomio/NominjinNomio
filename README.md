@@ -45,7 +45,7 @@
 
 <div align="center"> 
   <a href="https://portfolio-alpha-ashen-27.vercel.app/">
-    <img src="<img src="https://img.shields.io/badge/Portfolio-portfolio.nominjin-444444?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />" />
+    <img src="https://img.shields.io/badge/Portfolio-portfolio.nominjin-444444?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
   </a>
   <a href="https://x.com/nomin1433">
     <img src="https://img.shields.io/badge/@NOMINJIN1433-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
