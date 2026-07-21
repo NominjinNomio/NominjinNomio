@@ -1,0 +1,20 @@
+{
+  "username": "nominjin",
+  "host": "github",
+  "fields": [
+    { "label": "Now", "value": "Intern @ erxes Mongolia" },
+    { "label": "Edu", "value": "3rd Yr IT, MUST-SICT" },
+    { "label": "Major", "value": "Information Technology" },
+    { "label": "Focus", "value": "Agentic Tools, Context Eng., Cybersecurity" },
+    { "label": "Motto", "value": "Code w/ purpose, automate" }
+  ],
+  "stack": [
+    { "label": "Frontend", "value": "React, Next.js, TypeScript, JavaScript" },
+    { "label": "Backend", "value": "Node, Django, REST APIs" },
+    { "label": "AI / ML", "value": "LangChain, Agentic Tools" },
+    { "label": "Tools", "value": "Git, Docker, VS Code, Linux" }
+  ],
+  "highlights": [
+    "Turning curiosity into code since 2026"
+  ]
+}
