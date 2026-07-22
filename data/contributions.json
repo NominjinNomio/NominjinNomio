@@ -1,6 +1,6 @@
 {
   "username": "NominjinNomio",
-  "total": "176",
+  "total": "247",
   "months": [
     {
       "span": 2,
@@ -1006,7 +1006,7 @@
     },
     {
       "date": "2026-07-21",
-      "level": 0,
+      "level": 3,
       "row": 2,
       "col": 52
     },
@@ -1321,6 +1321,12 @@
       "level": 0,
       "row": 3,
       "col": 51
+    },
+    {
+      "date": "2026-07-22",
+      "level": 4,
+      "row": 3,
+      "col": 52
     },
     {
       "date": "2025-07-24",
